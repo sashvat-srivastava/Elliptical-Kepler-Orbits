@@ -24,7 +24,7 @@ The implementation achieves high-fidelity conservation of physical invariants:
 
 ## Repository Structure
 * `main.py`: VPython implementation of the Velocity Verlet integrator and 3D visualization.
-* `Latex-Report.pdf`: Technical report including Lagrangian derivations and error analysis.
+* `project-report.pdf`: Technical report including Lagrangian derivations and error analysis.
 
 ## Dependencies
 * Python 3.x
